@@ -8,8 +8,15 @@
     --primary: #2ED573;
     --primary_dark: #25AA5C;
     --white: #fff;
-    --grey_100:#E7E8EB
-    --
+    --gray_100:#E7E8EB;
+    --gray_200:#CFD2D7;
+    --gray_300:#B8BBC2; 
+    --gray_400:#A0A4AD;
+    --gray_500:#898E98;
+    --gray_600:#727883;
+    --gray_700:#5C616E;
+    --gray_800:#454B58;
+    --gray_900:#2F3542;
 }
 
 header{
@@ -189,7 +196,7 @@ footer{
     font-size: 12px;
     line-height: 16px;
     text-align: center;
-    color: var(--grey_100);
+    color: var(--gray_100);
 }
 
 .base-footer .design{
@@ -197,5 +204,5 @@ footer{
    font-weight: 400;
    font-size: 12px;
    line-height: 16px;
-   color: var(--grey_100)
+   color: var(--gray_100)
 }
